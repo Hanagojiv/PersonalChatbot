@@ -41,6 +41,8 @@ To use the chatbot, follow these steps:
 
 #### When I uploaded my resume from my local computer this is how i interacted with the chatbot:
 ![ResumeUpload](/Images/1.png)
+
+
 ![ResumeUpload](/Images/2.png)
 
 #### When I attempt to ask questions that are 'out-of-bound,' the chatbot verifies whether the question is relevant. If it's not, it will display a message requesting relevant questions. This demonstrates that the prompt engineering was effectively executed to ensure responses stay within the scope of the uploaded content.
